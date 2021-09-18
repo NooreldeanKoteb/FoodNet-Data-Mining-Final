@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 24 15:09:12 2021
 
-@authors: Nooreldean Koteb & Abdallah Soliman
+@authors: Nooreldean Koteb
 """
 
 
